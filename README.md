@@ -1,4 +1,4 @@
-# Aaptive-CNN-based-on-Wigner-Ville-distribution
+# Adaptive-CNN-based-on-Wigner-Ville-distribution
 
 Official implementation of:
 "An Adaptive Convolution Based on Instantaneous Correlation and Its Application in Multi-Condition Fault Diagnosis of Gearbox"
